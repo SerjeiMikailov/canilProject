@@ -1,4 +1,4 @@
-# canilProject
+# petJOOJ
 
 ### Pré requisitos globais para execução: 
 "npm i -g nodemon typescript ts-node"
