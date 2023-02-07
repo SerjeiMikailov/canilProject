@@ -5,6 +5,7 @@
   "main": "index.js",
   "engines": {"node": "18.x"},
   "scripts": {
+    "tsc": "tsc",
     "start": "node dist/server.js",
     "postinstall": "tsc && copyfiles -u n1 src/**/*.mustache dist/",
     "test": "echo \"Error: no test specified\" && exit 1",
